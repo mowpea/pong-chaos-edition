@@ -1,6 +1,6 @@
 # PONG - CHAOS EDITION
 
-This Project was created for CS50X. It is temporarily public for an application process with game company.
+This Project was created for CS50X. It is temporarily public for an application process with a game company.
 
 ## Video Demo
 Link: https://youtu.be/oYNCjxtInwc?si=n5PJ8Mc6D7AgDwJJ
